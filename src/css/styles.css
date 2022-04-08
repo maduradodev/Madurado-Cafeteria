@@ -6,4 +6,10 @@
   html {
     font-family: "Roboto", sans-serif;
   }
+  .bg {
+    background-image: url('./img/bg.png');
+    background-size: cover;
+  }
 }
+
+
